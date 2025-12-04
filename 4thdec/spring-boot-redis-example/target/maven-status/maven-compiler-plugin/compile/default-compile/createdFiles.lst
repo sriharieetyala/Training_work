@@ -1,0 +1,6 @@
+com\bezkoder\spring\redis\SpringBootRedisExampleApplication.class
+com\bezkoder\spring\redis\service\TutorialService.class
+com\bezkoder\spring\redis\model\Tutorial.class
+com\bezkoder\spring\redis\repository\TutorialRepository.class
+com\bezkoder\spring\redis\controller\TutorialController.class
+com\bezkoder\spring\redis\config\RedisConfig.class
